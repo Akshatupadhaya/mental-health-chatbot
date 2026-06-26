@@ -2,7 +2,7 @@
 ### IBM x Edunet Internship Project
 
 ## Live Demo
-🔗 [Click here to open the app](#) ← replace with your Streamlit link after deployment
+🔗 [https://mental-health-chatbot-a6twlrkomdis5n3pebtbzu.streamlit.app/](#) ← replace with your Streamlit link after deployment
 
 ## Problem Statement
 Students face high levels of stress and anxiety but often hesitate to seek professional help.
